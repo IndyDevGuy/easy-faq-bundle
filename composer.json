@@ -35,9 +35,9 @@
 
         "easycorp/easyadmin-bundle": "^4.0",
 
-        "agence-adeliom/easy-common-bundle": "^2.1",
-        "agence-adeliom/easy-page-bundle": "^2.1",
-        "agence-adeliom/easy-fields-bundle": "^2.1",
+        "agence-adeliom/easy-common-bundle": "2.x-dev",
+        "agence-adeliom/easy-page-bundle": "2.x-dev",
+        "agence-adeliom/easy-fields-bundle": "2.x-dev",
 
         "babdev/pagerfanta-bundle": "^3.0 || ^4.0",
         "pagerfanta/twig": "^3.0 || ^4.0",
